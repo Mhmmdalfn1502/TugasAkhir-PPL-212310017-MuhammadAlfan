@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "eea41c21-44e4-4413-ad26-929fbe2976fa",
+		"name": "OrangeHRM",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "28292032"
+	},
+	"item": [
+		{
+			"name": "Post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
